@@ -1,24 +1,29 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import { Clock, Grommet } from 'grommet';
+import Tree from './components/Tree';
+
+import pusheen from './assets/pusheen.gif';
 import './App.css';
+
+const theme = {
+  global: {
+    font: {
+      family: 'Helvetica',
+      size: '18px',
+      height: '20px',
+    },
+  },
+};
 
 function App() {
   return (
-    <div className="App">
+    <Grommet theme={theme}>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* <img src={pusheen} /> */}
+        {/* <Clock type="digital" run="backward" time="PT17H13M20S"/> */}
+        < Tree />
       </header>
-    </div>
+      </Grommet>
   );
 }
 
