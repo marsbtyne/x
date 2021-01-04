@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/xmas/static/css/main.ab7136cd.chunk.css",
+    "main.css": "/xmas/static/css/main.73efbf52.chunk.css",
     "main.js": "/xmas/static/js/main.51ab1697.chunk.js",
     "main.js.map": "/xmas/static/js/main.51ab1697.chunk.js.map",
     "runtime-main.js": "/xmas/static/js/runtime-main.6a621b4c.js",
@@ -10,7 +10,7 @@
     "static/js/3.9e1921d4.chunk.js": "/xmas/static/js/3.9e1921d4.chunk.js",
     "static/js/3.9e1921d4.chunk.js.map": "/xmas/static/js/3.9e1921d4.chunk.js.map",
     "index.html": "/xmas/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/xmas/static/css/main.ab7136cd.chunk.css.map",
+    "static/css/main.73efbf52.chunk.css.map": "/xmas/static/css/main.73efbf52.chunk.css.map",
     "static/js/2.de0e719e.chunk.js.LICENSE.txt": "/xmas/static/js/2.de0e719e.chunk.js.LICENSE.txt",
     "static/media/catpresent.3864d9de.gif": "/xmas/static/media/catpresent.3864d9de.gif",
     "static/media/dogmoney.e0e1e2a5.gif": "/xmas/static/media/dogmoney.e0e1e2a5.gif",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.6a621b4c.js",
     "static/js/2.de0e719e.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
+    "static/css/main.73efbf52.chunk.css",
     "static/js/main.51ab1697.chunk.js"
   ]
 }
